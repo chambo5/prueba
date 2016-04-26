@@ -1,0 +1,184 @@
+{
+	"sedes": [
+		{
+			"id": "sede1",
+			"lat": 10.7273859491,
+			"lng": -74.2243014373,
+			"title": "C.I. CARIBIA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "A 65 Km al Sur de Santa Marta <br> Vía Santamarta - Fundación <br> Municipio Zona Bananera, Magdalena.",
+			"telefono": "(57+1) 4227300, Ext. 2100"
+		},
+		{
+			"id": "sede2",
+			"lat": 4.81592474774,
+			"lng": -71.1077419535,
+			"title": "C.I. CARIMAGUA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede3",
+			"lat": 2.19833438243,
+			"lng": -78.5726898396,
+			"title": "C.I. EL MIRA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede4",
+			"lat": 6.49446110982,
+			"lng": -74.8402388899,
+			"title": "C.I. EL NUS",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede5",
+			"lat": 4.05788904164,
+			"lng": -73.4670889746,
+			"title": "C.I. LA LIBERTAD",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede6",
+			"lat": 4.35856630953,
+			"lng": -72.2519885981,
+			"title": "Taluma (C.I. La Libertad)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede7",
+			"lat": 5.3526,
+			"lng": -72.4032,
+			"title": "Yopal (C.I. La Libertad)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede8",
+			"lat": 6.12955833006,
+			"lng": -75.4143805584,
+			"title": "C.I. LA SELVA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede9",
+			"lat": 5.055,
+			"lng": -75.49305,
+			"title": "Eje Cafetero (C.I. La Selva)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede10",
+			"lat": 7.15912735021,
+			"lng": -73.0697359649,
+			"title": "C.I. LA SUIZA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede11",
+			"lat": 10.0320782631,
+			"lng": -73.2249945713,
+			"title": "C.I. MOTILONIA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede12",
+			"lat": 4.19146667278,
+			"lng": -74.9608500054,
+			"title": "C.I. NATAIMA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede13",
+			"lat": 1.6164,
+			"lng": -75.62686,
+			"title": "Florencia (C.I. Nataima)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede14",
+			"lat": 1.10932453208,
+			"lng": -77.2050336774,
+			"title": "C.I. OBONUCO",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede15",
+			"lat": 3.52127745192,
+			"lng": -76.3070518418,
+			"title": "C.I. PALMIRA",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede16",
+			"lat": 4.6945,
+			"lng": -74.2055,
+			"title": "C.I. TIBAITATÁ",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede17",
+			"lat": 5.935952029,
+			"lng": -73.6155122377,
+			"title": "Cimpa (C.I. Tibaitatá)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede18",
+			"lat": 8.86495666412,
+			"lng": -75.7658514593,
+			"title": "C.I. TURIPANÁ",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede19",
+			"lat": 9.71416,
+			"lng": -75.10749,
+			"title": "El Carmen de Bolivar (C.I. Turipaná)",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		},
+		{
+			"id": "sede20",
+			"lat": 4.6962,
+			"lng": -74.20413,
+			"title": "C.I.  Sede Central",
+			"img": "http://lorempixel.com/70/70/nightlife",
+			"direccion": "Por definir",
+			"telefono": "Por definir"
+		}
+	]
+}
